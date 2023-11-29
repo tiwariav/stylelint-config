@@ -1,3 +1,10 @@
+## 1.0.0 (2023-11-29)
+
+
+### ✨ Features
+
+* initial commit ([5c57349](https://github.com/tiwariav/stylelint-config/commit/5c573492ec1927171644518f5fae9611799a299d))
+
 ## [1.3.0](https://github.com/tiwariav/browserslist-config/compare/v1.2.0...v1.3.0) (2023-11-20)
 
 
