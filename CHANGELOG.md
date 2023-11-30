@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/tiwariav/stylelint-config/compare/v1.0.1...v1.0.2) (2023-11-30)
+
+
+### 🐛 Bug Fixes
+
+* create new release ([b43e34a](https://github.com/tiwariav/stylelint-config/commit/b43e34a88dc106edd323ddf9a647be1e40b8e21b))
+
 ## [1.0.1](https://github.com/tiwariav/stylelint-config/compare/v1.0.0...v1.0.1) (2023-11-29)
 
 ### 🐛 Bug Fixes
