@@ -2,7 +2,7 @@
   "name": "@tiwariav/stylelint-config",
   "description": "Stylelint config for modern websites",
   "version": "1.0.2",
-  "type": "module",
+  "type": "commonjs",
   "license": "MIT",
   "dependencies": {
     "stylelint": "^15.11.0",
