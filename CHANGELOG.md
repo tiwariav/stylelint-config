@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/tiwariav/stylelint-config/compare/v1.0.2...v1.0.3) (2023-11-30)
+
+
+### 🐛 Bug Fixes
+
+* convert to commonjs from module type ([5dc1d6a](https://github.com/tiwariav/stylelint-config/commit/5dc1d6ad25b92b0f1db5369d07558efd866d9015))
+
 ## [1.0.2](https://github.com/tiwariav/stylelint-config/compare/v1.0.1...v1.0.2) (2023-11-30)
 
 
