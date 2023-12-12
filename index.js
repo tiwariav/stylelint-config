@@ -2,7 +2,7 @@ function propertyValueAllowed(properties) {
   const response = {};
   for (const property of properties) {
     response[property] =
-      /^(auto|currentColor|inherit|none|transparent|0|var\(.*\)|\s)+$/;
+      /^(auto|currentColor|inherit|none|transparent|0|var\(.*\)|calc\(|\)|-1\s\*|\s)+$/;
   }
   return response;
 }
