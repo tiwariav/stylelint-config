@@ -1,46 +1,49 @@
+function propertyValueAllowed(properties) {
+  const response = {};
+  for (const property of properties) {
+    response[property] = [
+      /^var\(/,
+      "auto",
+      "currentColor",
+      "inherit",
+      "none",
+      "transparent",
+      "0",
+    ];
+  }
+  return response;
+}
+
 module.exports = {
   extends: [
     "stylelint-config-standard",
     "stylelint-config-css-modules",
-    "stylelint-a11y/recommended",
+    // TODO: check if any alternative package is born
+    // "stylelint-a11y/recommended",
     "stylelint-config-rational-order",
   ],
   plugins: [
     "stylelint-declaration-block-no-ignored-properties",
-    "stylelint-declaration-strict-value",
-    "stylelint-use-nesting",
+    // enable once package is updated to support v16
+    // "stylelint-declaration-strict-value",
   ],
   rules: {
-    "a11y/no-outline-none": null,
     "alpha-value-notation": "number",
     "at-rule-no-unknown": null,
-    "csstools/use-nesting": true,
+    "declaration-property-value-allowed-list": propertyValueAllowed([
+      /color$/,
+      "background",
+      "border-radius",
+      "box-shadow",
+      "font-size",
+      "z-index",
+      "/gap/",
+      "/margin/",
+      "/padding/",
+    ]),
+    "declaration-property-value-no-unknown": true,
     "function-no-unknown": null,
     "max-nesting-depth": 4,
     "plugin/declaration-block-no-ignored-properties": true,
-    "scale-unlimited/declaration-strict-value": [
-      [
-        "/color$/",
-        "background",
-        "border-radius",
-        "box-shadow",
-        "font-size",
-        "z-index",
-        "/gap/",
-        "/margin/",
-        "/padding/",
-      ],
-      {
-        disableFix: true,
-        ignoreValues: [
-          "auto",
-          "currentColor",
-          "inherit",
-          "none",
-          "transparent",
-          0,
-        ],
-      },
-    ],
   },
 };
