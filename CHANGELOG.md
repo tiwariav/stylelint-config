@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/tiwariav/stylelint-config/compare/v1.0.6...v1.0.7) (2023-12-12)
+
+
+### 🐛 Bug Fixes
+
+* update allowed values regex for calc function ([b58b255](https://github.com/tiwariav/stylelint-config/commit/b58b255dcf01dc9165ecdd4d54074ea6a91a972c))
+
 ## [1.0.6](https://github.com/tiwariav/stylelint-config/compare/v1.0.5...v1.0.6) (2023-12-12)
 
 
