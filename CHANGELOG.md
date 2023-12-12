@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/tiwariav/stylelint-config/compare/v1.0.7...v1.0.8) (2023-12-12)
+
+
+### 🐛 Bug Fixes
+
+* ignore declaration property name if part of variable name ([e2f7ee6](https://github.com/tiwariav/stylelint-config/commit/e2f7ee6ab74cbd16a04ba1d9207019f1e877569b))
+
 ## [1.0.7](https://github.com/tiwariav/stylelint-config/compare/v1.0.6...v1.0.7) (2023-12-12)
 
 
