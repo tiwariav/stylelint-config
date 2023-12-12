@@ -1,15 +1,8 @@
 function propertyValueAllowed(properties) {
   const response = {};
   for (const property of properties) {
-    response[property] = [
-      /^var\(/,
-      "auto",
-      "currentColor",
-      "inherit",
-      "none",
-      "transparent",
-      "0",
-    ];
+    response[property] =
+      /^(auto|currentColor|inherit|none|transparent|0|var\(.*\)|\s)+$/;
   }
   return response;
 }

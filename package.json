@@ -4,6 +4,10 @@
   "version": "1.0.5",
   "type": "commonjs",
   "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
   "dependencies": {
     "stylelint": "^16.0.2",
     "stylelint-config-css-modules": "^4.3.0",
