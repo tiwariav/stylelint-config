@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/tiwariav/stylelint-config/compare/v1.0.4...v1.0.5) (2023-12-12)
+
+
+### 🐛 Bug Fixes
+
+* remove incompatible rules with v16 ([d660b18](https://github.com/tiwariav/stylelint-config/commit/d660b18f2a91131866c31da4c3d5f6af01879a6f))
+
 ## [1.0.4](https://github.com/tiwariav/stylelint-config/compare/v1.0.3...v1.0.4) (2023-12-12)
 
 
