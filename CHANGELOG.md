@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/tiwariav/stylelint-config/compare/v1.0.5...v1.0.6) (2023-12-12)
+
+
+### 🐛 Bug Fixes
+
+* update allowed values regex for shorthands ([66cf53b](https://github.com/tiwariav/stylelint-config/commit/66cf53ba39e826ed0221d5ad7b097db509d687e9))
+
 ## [1.0.5](https://github.com/tiwariav/stylelint-config/compare/v1.0.4...v1.0.5) (2023-12-12)
 
 
