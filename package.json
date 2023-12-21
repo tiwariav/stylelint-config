@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "stylelint": "^16.0.2",
-    "stylelint-config-css-modules": "^4.3.0",
+    "stylelint-config-css-modules": "^4.4.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^35.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.7.0"
