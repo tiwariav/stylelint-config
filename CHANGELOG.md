@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/tiwariav/stylelint-config/compare/v1.0.8...v1.0.9) (2023-12-21)
+
+
+### ♻️ Code Refactors
+
+* update packages ([32aacfe](https://github.com/tiwariav/stylelint-config/commit/32aacfe8e19b7f4b89b25216cb6b1760b0299c3f))
+
 ## [1.0.8](https://github.com/tiwariav/stylelint-config/compare/v1.0.7...v1.0.8) (2023-12-12)
 
 
