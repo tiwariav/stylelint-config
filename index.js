@@ -20,7 +20,6 @@ module.exports = {
     "font-weight-notation": "numeric",
     "function-no-unknown": null,
     "max-nesting-depth": 4,
-    "a11y/media-prefers-color-scheme": true,
     "csstools/media-use-custom-media": "always",
     "csstools/use-nesting": "always",
     "csstools/value-no-unknown-custom-properties": true,
