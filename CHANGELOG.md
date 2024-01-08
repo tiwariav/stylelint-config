@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/tiwariav/stylelint-config/compare/v1.0.12...v1.0.13) (2024-01-08)
+
+
+### 🐛 Bug Fixes
+
+* downgrade stylelint to v15 because of vscode error ([ccff2d9](https://github.com/tiwariav/stylelint-config/commit/ccff2d9896f8a0d1e4880859d0eda4612d852158))
+
 ## [1.0.12](https://github.com/tiwariav/stylelint-config/compare/v1.0.11...v1.0.12) (2024-01-08)
 
 
