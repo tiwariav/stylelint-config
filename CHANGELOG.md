@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/tiwariav/stylelint-config/compare/v1.0.11...v1.0.12) (2024-01-08)
+
+
+### 🐛 Bug Fixes
+
+* export as esm ([c811aba](https://github.com/tiwariav/stylelint-config/commit/c811aba571ecf5230552694501c2325a206c1653))
+
 ## [1.0.11](https://github.com/tiwariav/stylelint-config/compare/v1.0.10...v1.0.11) (2024-01-08)
 
 
