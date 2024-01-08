@@ -1,22 +1,39 @@
-export default {
+module.exports = {
   extends: [
-    // enable when v16 support
-    // "@ronilaukkarinen/stylelint-a11y/recommended",
-    // "stylelint-config-css-modules",
+    "@ronilaukkarinen/stylelint-a11y/recommended",
     "stylelint-config-standard",
     "stylelint-config-rational-order",
   ],
   plugins: [
     "stylelint-declaration-block-no-ignored-properties",
     "stylelint-declaration-strict-value",
+    "stylelint-media-use-custom-media",
+    "stylelint-no-indistinguishable-colors",
+    "stylelint-plugin-defensive-css",
+    "stylelint-value-no-unknown-custom-properties",
   ],
   rules: {
     "alpha-value-notation": "number",
     "at-rule-no-unknown": null,
     "declaration-property-value-no-unknown": true,
+    "font-weight-notation": "numeric",
     "function-no-unknown": null,
     "max-nesting-depth": 4,
+    "a11y/media-prefers-color-scheme": true,
+    "csstools/media-use-custom-media": "always",
+    "csstools/value-no-unknown-custom-properties": true,
     "plugin/declaration-block-no-ignored-properties": true,
+    "plugin/stylelint-no-indistinguishable-colors": true,
+    "plugin/use-defensive-css": [
+      true,
+      {
+        "accidental-hover": true,
+        "background-repeat": true,
+        "flex-wrapping": true,
+        "scroll-chaining": true,
+        "scrollbar-gutter": true,
+      },
+    ],
     "scale-unlimited/declaration-strict-value": [
       [
         "/color$/",

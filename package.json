@@ -2,18 +2,27 @@
   "name": "@tiwariav/stylelint-config",
   "description": "Stylelint config for modern websites",
   "version": "1.0.11",
-  "type": "module",
+  "type": "commonjs",
   "license": "MIT",
   "files": [
     "index.js",
     "LICENSE"
   ],
   "dependencies": {
-    "stylelint": "^16.1.0",
+    "@ronilaukkarinen/stylelint-a11y": "^1.2.9",
+    "stylelint": "^15.11.0",
     "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-config-standard": "^36.0.0",
+    "stylelint-config-standard": "^35.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.8.0",
-    "stylelint-declaration-strict-value": "^1.10.4"
+    "stylelint-declaration-strict-value": "^1.10.4",
+    "stylelint-media-use-custom-media": "^3.0.0",
+    "stylelint-no-indistinguishable-colors": "^2.1.0",
+    "stylelint-plugin-defensive-css": "^0.10.4",
+    "stylelint-value-no-unknown-custom-properties": "^5.0.0"
   },
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "postcss": "^8.4.33",
+    "stylelint-find-new-rules": "^4.1.2"
+  }
 }
