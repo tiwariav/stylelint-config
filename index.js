@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   extends: [
     // enable when v16 support
     // "@ronilaukkarinen/stylelint-a11y/recommended",
