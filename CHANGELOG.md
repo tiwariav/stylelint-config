@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/tiwariav/stylelint-config/compare/v1.0.10...v1.0.11) (2024-01-08)
+
+
+### 🐛 Bug Fixes
+
+* remove unsupported css-modules plugin ([61e9c27](https://github.com/tiwariav/stylelint-config/commit/61e9c2743fa631dbff44c28c2028a795980245ea))
+
 ## [1.0.10](https://github.com/tiwariav/stylelint-config/compare/v1.0.9...v1.0.10) (2024-01-04)
 
 
