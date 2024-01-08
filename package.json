@@ -10,10 +10,10 @@
   ],
   "dependencies": {
     "stylelint": "^16.1.0",
-    "stylelint-config-css-modules": "^4.4.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^36.0.0",
-    "stylelint-declaration-block-no-ignored-properties": "^2.8.0"
+    "stylelint-declaration-block-no-ignored-properties": "^2.8.0",
+    "stylelint-declaration-strict-value": "^1.10.4"
   },
   "packageManager": "yarn@4.0.2"
 }
