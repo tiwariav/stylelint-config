@@ -1,3 +1,10 @@
+## [1.0.15](https://github.com/tiwariav/stylelint-config/compare/v1.0.14...v1.0.15) (2024-01-08)
+
+
+### 🐛 Bug Fixes
+
+* remove a11 prefers-color-scheme rule ([b69eb3b](https://github.com/tiwariav/stylelint-config/commit/b69eb3b7b9f798d76a1377bde63c6341b21038c8))
+
 ## [1.0.14](https://github.com/tiwariav/stylelint-config/compare/v1.0.13...v1.0.14) (2024-01-08)
 
 
