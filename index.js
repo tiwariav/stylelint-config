@@ -10,6 +10,7 @@ module.exports = {
     "stylelint-media-use-custom-media",
     "stylelint-no-indistinguishable-colors",
     "stylelint-plugin-defensive-css",
+    "stylelint-use-nesting",
     "stylelint-value-no-unknown-custom-properties",
   ],
   rules: {
@@ -21,6 +22,7 @@ module.exports = {
     "max-nesting-depth": 4,
     "a11y/media-prefers-color-scheme": true,
     "csstools/media-use-custom-media": "always",
+    "csstools/use-nesting": "always",
     "csstools/value-no-unknown-custom-properties": true,
     "plugin/declaration-block-no-ignored-properties": true,
     "plugin/stylelint-no-indistinguishable-colors": true,
