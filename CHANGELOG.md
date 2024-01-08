@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/tiwariav/stylelint-config/compare/v1.0.13...v1.0.14) (2024-01-08)
+
+
+### 🐛 Bug Fixes
+
+* vscode issue with stylelint-no-indistinguishable-colors ([99cf517](https://github.com/tiwariav/stylelint-config/commit/99cf5172db7a41c88efb65c09a43606411251a14))
+
 ## [1.0.13](https://github.com/tiwariav/stylelint-config/compare/v1.0.12...v1.0.13) (2024-01-08)
 
 
