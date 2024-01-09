@@ -20,6 +20,7 @@ module.exports = {
     "font-weight-notation": "numeric",
     "function-no-unknown": null,
     "max-nesting-depth": 4,
+    "selector-pseudo-class-no-unknown": [true, [":global"]],
     "csstools/media-use-custom-media": "always",
     "csstools/use-nesting": "always",
     "csstools/value-no-unknown-custom-properties": true,
