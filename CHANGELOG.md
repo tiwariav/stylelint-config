@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/tiwariav/stylelint-config/compare/v1.0.16...v1.0.17) (2024-01-09)
+
+
+### 🐛 Bug Fixes
+
+* add ':global' to selector-pseudo-class-no-unknown ([8117bc0](https://github.com/tiwariav/stylelint-config/commit/8117bc02e1da2b4b40fa3b58f0ed5ff12caf0b79))
+
 ## [1.0.16](https://github.com/tiwariav/stylelint-config/compare/v1.0.15...v1.0.16) (2024-01-09)
 
 
