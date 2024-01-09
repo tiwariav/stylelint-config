@@ -26,6 +26,7 @@ module.exports = {
         ignorePseudoClasses: ["global"],
       },
     ],
+    "a11y/selector-pseudo-class-focus": null,
     "csstools/media-use-custom-media": "always",
     "csstools/use-nesting": "always",
     "csstools/value-no-unknown-custom-properties": true,
