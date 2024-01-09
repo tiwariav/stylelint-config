@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/tiwariav/stylelint-config/compare/v1.0.18...v1.0.19) (2024-01-09)
+
+
+### 🐛 Bug Fixes
+
+* correct ignore options for selector-pseudo-class-no-unknown ([341324a](https://github.com/tiwariav/stylelint-config/commit/341324a83b16fc4020ee6e968fcba704b4cb1f1d))
+
 ## [1.0.18](https://github.com/tiwariav/stylelint-config/compare/v1.0.17...v1.0.18) (2024-01-09)
 
 
