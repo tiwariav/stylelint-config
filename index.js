@@ -23,7 +23,7 @@ module.exports = {
     "selector-pseudo-class-no-unknown": [
       true,
       {
-        ignorePseudoClasses: [":global"],
+        ignorePseudoClasses: ["global"],
       },
     ],
     "csstools/media-use-custom-media": "always",
