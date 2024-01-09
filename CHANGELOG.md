@@ -1,3 +1,10 @@
+## [1.0.16](https://github.com/tiwariav/stylelint-config/compare/v1.0.15...v1.0.16) (2024-01-09)
+
+
+### 🐛 Bug Fixes
+
+* remove rule for defensive flexbox wrapping ([32172b5](https://github.com/tiwariav/stylelint-config/commit/32172b59dc7c55656eea80ca92fe35ff5d54dbb1))
+
 ## [1.0.15](https://github.com/tiwariav/stylelint-config/compare/v1.0.14...v1.0.15) (2024-01-08)
 
 
