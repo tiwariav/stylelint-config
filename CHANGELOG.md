@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/tiwariav/stylelint-config/compare/v1.0.19...v1.0.20) (2024-01-09)
+
+
+### 🐛 Bug Fixes
+
+* remove selector-pseudo-class-focus role ([1a79ba5](https://github.com/tiwariav/stylelint-config/commit/1a79ba585634a8389f6bc2733fed1de3d41ff8c5))
+
 ## [1.0.19](https://github.com/tiwariav/stylelint-config/compare/v1.0.18...v1.0.19) (2024-01-09)
 
 
