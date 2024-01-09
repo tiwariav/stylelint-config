@@ -30,7 +30,6 @@ module.exports = {
       {
         "accidental-hover": true,
         "background-repeat": true,
-        "flex-wrapping": true,
         "scroll-chaining": true,
         "scrollbar-gutter": true,
       },
