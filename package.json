@@ -1,15 +1,20 @@
 {
   "name": "@tiwariav/stylelint-config",
   "description": "Stylelint config for modern websites",
+  "keywords": [
+    "stylelint-plugin"
+  ],
   "version": "1.0.20",
   "type": "commonjs",
   "license": "MIT",
+  "main": "lib/index.js",
   "files": [
-    "index.js",
+    "lib",
     "LICENSE"
   ],
   "dependencies": {
     "@ronilaukkarinen/stylelint-a11y": "^1.2.9",
+    "colorjs.io": "^0.4.5",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^35.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.8.0",

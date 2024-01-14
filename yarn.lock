@@ -375,6 +375,7 @@ __metadata:
   resolution: "@tiwariav/stylelint-config@workspace:."
   dependencies:
     "@ronilaukkarinen/stylelint-a11y": "npm:^1.2.9"
+    colorjs.io: "npm:^0.4.5"
     postcss: "npm:^8.4.33"
     stylelint: "npm:^15.11.0"
     stylelint-config-rational-order: "npm:^0.1.2"
@@ -1031,6 +1032,13 @@ __metadata:
   bin:
     colorguard: ./bin/colorguard
   checksum: 7e794f5f8fd03471e6c8155665944d270ec43496a4a7fa571a034698a9f475620405e777e2230958ac58435d9cd97ea72e2c5fe178a04d2427bccbf0e9faa9bd
+  languageName: node
+  linkType: hard
+
+"colorjs.io@npm:^0.4.5":
+  version: 0.4.5
+  resolution: "colorjs.io@npm:0.4.5"
+  checksum: 4cc58d18223426bcb8caa558e7554002b62bf87bd20db06596abf5efe5ea65416266402db86b504ac5fa2c38360913dbb8e6ef7c4fa19a992fd1818d5710ef6f
   languageName: node
   linkType: hard
 
