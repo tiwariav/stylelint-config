@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/tiwariav/stylelint-config/compare/v1.1.0...v1.1.1) (2024-01-14)
+
+
+### 🐛 Bug Fixes
+
+* prevent error when color regex has no match ([fd33270](https://github.com/tiwariav/stylelint-config/commit/fd33270caab94a9daa09399b0a6569135387342b))
+
 ## [1.1.0](https://github.com/tiwariav/stylelint-config/compare/v1.0.20...v1.1.0) (2024-01-14)
 
 
