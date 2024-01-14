@@ -5,6 +5,18 @@
 
 * add colors plugin ([9fc574b](https://github.com/tiwariav/stylelint-config/commit/9fc574b4326cffe841d7b5a5e57005a316a09173))
 
+
+### ♻️ Code Refactors
+
+* remove unused plugin ([900d98f](https://github.com/tiwariav/stylelint-config/commit/900d98f968fbd03647eeb90178a58111b12be405))
+
+## [1.1.0](https://github.com/tiwariav/stylelint-config/compare/v1.0.20...v1.1.0) (2024-01-14)
+
+
+### ✨ Features
+
+* add colors plugin ([9fc574b](https://github.com/tiwariav/stylelint-config/commit/9fc574b4326cffe841d7b5a5e57005a316a09173))
+
 ## [1.0.20](https://github.com/tiwariav/stylelint-config/compare/v1.0.19...v1.0.20) (2024-01-09)
 
 
