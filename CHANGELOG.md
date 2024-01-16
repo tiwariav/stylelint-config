@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/tiwariav/stylelint-config/compare/v1.1.1...v1.1.2) (2024-01-16)
+
+
+### 🐛 Bug Fixes
+
+* ignore errors for incomplete strings ([9e691ec](https://github.com/tiwariav/stylelint-config/commit/9e691ec0574196876e89966abbb0e579c5493445))
+
 ## [1.1.1](https://github.com/tiwariav/stylelint-config/compare/v1.1.0...v1.1.1) (2024-01-14)
 
 
