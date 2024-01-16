@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/tiwariav/stylelint-config/compare/v1.2.1...v1.2.2) (2024-01-16)
+
+
+### 🐛 Bug Fixes
+
+* fix lightness option for predefined values ([4deaa91](https://github.com/tiwariav/stylelint-config/commit/4deaa9154ff41cd23b0b57083b2494e0ae7d2ebc))
+
 ## [1.2.1](https://github.com/tiwariav/stylelint-config/compare/v1.2.0...v1.2.1) (2024-01-16)
 
 
