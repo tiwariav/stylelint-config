@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/tiwariav/stylelint-config/compare/v1.2.0...v1.2.1) (2024-01-16)
+
+
+### 🐛 Bug Fixes
+
+* use correct value of lightness ([310fba3](https://github.com/tiwariav/stylelint-config/commit/310fba3487f58008f9802a81544a2b16a9082656))
+
 ## [1.2.0](https://github.com/tiwariav/stylelint-config/compare/v1.1.2...v1.2.0) (2024-01-16)
 
 
