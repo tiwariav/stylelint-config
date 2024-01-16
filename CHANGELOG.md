@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/tiwariav/stylelint-config/compare/v1.1.2...v1.2.0) (2024-01-16)
+
+
+### ✨ Features
+
+* add rule only-predefined-colors ([6832a4a](https://github.com/tiwariav/stylelint-config/commit/6832a4ae1a9d2714bd8954dcbd9b0c7df47cdd59))
+
 ## [1.1.2](https://github.com/tiwariav/stylelint-config/compare/v1.1.1...v1.1.2) (2024-01-16)
 
 
