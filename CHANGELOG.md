@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/tiwariav/stylelint-config/compare/v1.2.2...v1.2.3) (2024-02-20)
+
+
+### ♻️ Code Refactors
+
+* upgrade dependencies ([df46b81](https://github.com/tiwariav/stylelint-config/commit/df46b8145ecebd93d93fade24d018bfe3b186294))
+
 ## [1.2.2](https://github.com/tiwariav/stylelint-config/compare/v1.2.1...v1.2.2) (2024-01-16)
 
 
