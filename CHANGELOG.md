@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/tiwariav/stylelint-config/compare/v1.2.3...v1.2.4) (2024-03-14)
+
+
+### ♻️ Code Refactors
+
+* update dependencies ([f5e4a17](https://github.com/tiwariav/stylelint-config/commit/f5e4a171d54cd79d5cbbf918ab382cfc1e700cc8))
+
 ## [1.2.3](https://github.com/tiwariav/stylelint-config/compare/v1.2.2...v1.2.3) (2024-02-20)
 
 
