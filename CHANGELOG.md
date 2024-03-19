@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/tiwariav/stylelint-config/compare/v1.2.4...v1.2.5) (2024-03-19)
+
+
+### 🐛 Bug Fixes
+
+* correct stylelint peer dependency version ([b824f30](https://github.com/tiwariav/stylelint-config/commit/b824f3060e4073d3e4fb9143e858e70eadde5a1f))
+
 ## [1.2.4](https://github.com/tiwariav/stylelint-config/compare/v1.2.3...v1.2.4) (2024-03-14)
 
 
