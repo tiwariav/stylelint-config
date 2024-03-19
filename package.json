@@ -26,11 +26,11 @@
   },
   "packageManager": "yarn@4.0.2",
   "devDependencies": {
-    "postcss": "^8.4.35",
+    "postcss": "^8.4.37",
     "stylelint": "^15.11.0",
     "stylelint-find-new-rules": "^4.1.2"
   },
   "peerDependencies": {
-    "stylelint": "15"
+    "stylelint": "^15.11.0"
   }
 }
