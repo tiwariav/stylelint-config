@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/tiwariav/stylelint-config/compare/v1.2.5...v1.2.6) (2024-03-23)
+
+
+### 🐛 Bug Fixes
+
+* update indistinguishable color rule to include prop name ([dcd9953](https://github.com/tiwariav/stylelint-config/commit/dcd9953d490fc806c2bcb4a34456e5947aa310e4))
+
 ## [1.2.5](https://github.com/tiwariav/stylelint-config/compare/v1.2.4...v1.2.5) (2024-03-19)
 
 
